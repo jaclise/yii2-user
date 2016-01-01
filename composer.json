@@ -1,6 +1,6 @@
 {
     "name": "jaclise/yii2-user",
-    "description": "Flexible user registration and authentication module for Yii2",
+    "description": "Flexible user registration and authentication module for Yii2,fork form dektrium",
     "keywords": ["yii2", "yii2-user", "user management", "dektrium"],
     "type": "yii2-extension",
     "license": "MIT",
